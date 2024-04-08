@@ -1,0 +1,28 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#87cde0",
+    "activityBar.background": "#87cde0",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#d14eb5",
+    "activityBarBadge.foreground": "#15202b",
+    "commandCenter.border": "#15202b99",
+    "sash.hoverBorder": "#87cde0",
+    "statusBar.background": "#5ebcd6",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#35abcc",
+    "statusBarItem.remoteBackground": "#5ebcd6",
+    "statusBarItem.remoteForeground": "#15202b",
+    "titleBar.activeBackground": "#5ebcd6",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#5ebcd699",
+    "titleBar.inactiveForeground": "#15202b99"
+  },
+  "peacock.color": "#5ebcd6",
+  "C_Cpp.errorSquiggles": "disabled",
+  "files.associations": {
+    "index.h": "c",
+    "add.h": "c",
+    "file_util.h": "c"
+  }
+}
